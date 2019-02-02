@@ -30,4 +30,4 @@ cd Liri-Node-App
 npm install
 node liri.js [command-here]
 ```
-Use the commands listed above. 
+Use the commands listed in the description 
