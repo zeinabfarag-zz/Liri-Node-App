@@ -26,6 +26,6 @@ Try it out locally in your cli!
 git clone https://github.com/zeinabfarag/Liri-Node-App.git
 cd Liri-Node-App
 npm install
-node server
+node liri.js [command-here]
 ```
 Use the commands listed above. 
